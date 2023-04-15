@@ -76,12 +76,12 @@ color: #FFFFFF;
 #employee-para {
     font-weight: 400;
 font-size: 18px;
-line-height: 29px;
+
 /* identical to box height */
-margin-top: 30px;
-margin-left: 20px;
+
 
 color: rgba(255, 255, 255, 0.5);
+    padding: 20px 30px;
 }
 
 
@@ -133,9 +133,7 @@ color: #43FF78;
 
 }
 
-#employee-para{
-    padding: 20px 30px;
-}
+
 
 #delete-btn{
     background: #FFFFFF;
