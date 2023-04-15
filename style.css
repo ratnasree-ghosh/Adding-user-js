@@ -8,13 +8,13 @@ body{
     font-family: 'Inter', sans-serif;
 }
 
-#form{
+
+
+.test{
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
     row-gap: 10px;
-    
-
 }
 
 h1{
