@@ -77,11 +77,12 @@ color: #FFFFFF;
     font-weight: 400;
 font-size: 18px;
 
-/* identical to box height */
+
 
 
 color: rgba(255, 255, 255, 0.5);
-    padding: 20px 30px;
+ margin-top: 30px;
+margin-left: 30px;
 }
 
 
@@ -136,11 +137,12 @@ color: #43FF78;
 
 
 #delete-btn{
-    background: #FFFFFF;
+background: #FFFFFF;
 border-radius: 20px;
 width: 162px;
 height: 42px;
 font-size: 18px;
+ border: none
 }
 
 #delete-btn:hover{
