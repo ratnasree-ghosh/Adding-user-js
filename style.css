@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* width: 100vw;
+    height: 100vh; */
+    background-color:  #1E1E1E;
+    color: white ;
+    font-family: 'Inter', sans-serif;
+}
+
+#form{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    
+
+}
+
+h1{
+    padding: 30px;
+}
+
+.input{
+    width: 531px;
+height: 56px;
+border: 1px solid white;
+border-radius: 5px;
+box-sizing: border-box;
+background-color:  #1E1E1E;
+margin-top: 15px;
+color: #FFFFFF;
+font-size: 20px;
+}
+
+.input:focus{
+    outline: none;
+}
+
+#form .labell{
+    font-size: 18px;
+}
+
+#btn{
+    width: 226px;
+height: 58px;
+background: #FFFFFF;
+color: #000000;
+margin-left: 30px;
+margin-top: 51px;
+text-align: center;
+
+font-weight: 400;
+font-size: 18px;
+
+}
+
+#btn:hover{
+    background-color: #cccccc;
+    cursor: pointer;
+}
+
+#added-para{
+    font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+margin-top: 60px;
+margin-left: 30px;
+
+color: #FFFFFF;
+}
+
+.employee-para{
+    font-weight: 400;
+font-size: 18px;
+line-height: 29px;
+/* identical to box height */
+margin-top: 30px;
+margin-left: 30px;
+
+color: rgba(255, 255, 255, 0.5);
+}
