@@ -90,6 +90,7 @@ margin-left: 30px;
     display: none;
     
     padding-left: 30px;
+    padding-top: 10px;
 
     font-style: normal;
 font-weight: 400;
@@ -104,7 +105,7 @@ color: #FF4343;
 .succ{
     display: none;
     padding-left: 30px;
-    
+    padding-top: 10px;
 
     font-weight: 400;
     font-size: 20px;
